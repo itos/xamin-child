@@ -16,6 +16,6 @@ Use it to make something cool, have fun, and share what you've learned with othe
 */
 
 /* Widgets */
-.easy-social-profile-buttons-class .widget ul li a:before {
+.essbfc-container ul li a:before {
     display: none;
 }
